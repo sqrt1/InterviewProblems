@@ -1,2 +1,2 @@
 # InterviewProblems
-A repo of coding interview.
+A repo of coding interview problems
